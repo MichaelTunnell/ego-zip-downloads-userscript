@@ -8,6 +8,7 @@ At the current time, the Extensions.GNOME.org website only supports a small numb
 ## Where to Get the Userscript
 
 GreasyFork - https://greasyfork.org/en/scripts/17853-ego-zip-downloads-userscript
+
 OpenUserJS - https://openuserjs.org/scripts/MichaelTunnell/EGO_Zip_Downloads_Userscript
 
 ## Video Tutorials
