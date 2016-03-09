@@ -15,3 +15,13 @@ OpenUserJS - https://openuserjs.org/scripts/MichaelTunnell/EGO_Zip_Downloads_Use
 
 **How to Install GNOME Extensions from Zip files** (this is for after you already have a Zip file)
 - https://www.youtube.com/watch?v=WdqzxqDo7Sk
+
+## Supported & Tested Browsers
+
+- Chromium
+- Google Chrome
+- Opera
+- Vivaldi
+- Firefox
+- Midori
+- QupZilla (should work in theory but did not work as expected during testing)
