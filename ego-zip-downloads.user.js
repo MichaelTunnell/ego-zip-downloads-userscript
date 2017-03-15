@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EGO Zip Downloads Userscript
 // @namespace    http://michaeltunnell.com
-// @version      1.0
+// @version      1.1
 // @description  Provides downloads and compatibility info for GNOME Extensions from extensions.gnome.org
 // @author       Michael Tunnell
 // @include      https://extensions.gnome.org/extension/*/*/
