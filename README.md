@@ -2,7 +2,7 @@
 At the current time, the Extensions.GNOME.org website only supports a small number of browsers via the GNOME Integration plugin using NPAPI as the backend. This project is to make it easier for anyone to use the website regardless of which browser they prefer.
 
 ### Preview:
-***Before*** - [![Before](https://greasyfork.org/system/screenshots/screenshots/000/006/767/thumb/ego-zip-downloads-before.png?1489607481](https://greasyfork.org/system/screenshots/screenshots/000/006/767/original/ego-zip-downloads-before.png?1489607481)
+***Before*** - [![Before](https://greasyfork.org/system/screenshots/screenshots/000/006/767/thumb/ego-zip-downloads-before.png?1489607481)](https://greasyfork.org/system/screenshots/screenshots/000/006/767/original/ego-zip-downloads-before.png?1489607481)
  ***After*** - [![After](https://greasyfork.org/system/screenshots/screenshots/000/006/768/thumb/ego-zip-downloads-after.png?1489607481)](https://greasyfork.org/system/screenshots/screenshots/000/006/768/original/ego-zip-downloads-after.png?1489607481)
 
 ## Where to Get the Userscript
