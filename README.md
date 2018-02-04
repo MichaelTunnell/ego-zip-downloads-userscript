@@ -1,8 +1,12 @@
-# EGO Zip Downloads Userscript
+## EGO Zip Downloads Userscript
 At the current time, the [Extensions.GNOME.org](https://extensions.gnome.org/) website only supports a small number of browsers via the GNOME Integration plugin using NPAPI as the backend. This project is to make it easier for anyone to use the website regardless of which browser they prefer.
 
-## -- IMPORTANT UPDATE! --
+------------------
+
+# -- IMPORTANT UPDATE! --
 This extensions is no longer maintained or needed because GNOME finally decided to make it possible to download extensions from the extensions.gnome.org website. You can now just use their download method in order to get the files. :)
+
+-------------------
 
 ### Preview:
 ***Before*** - [![Before](https://greasyfork.org/system/screenshots/screenshots/000/006/767/thumb/ego-zip-downloads-before.png?1489607481)](https://greasyfork.org/system/screenshots/screenshots/000/006/767/original/ego-zip-downloads-before.png?1489607481)
