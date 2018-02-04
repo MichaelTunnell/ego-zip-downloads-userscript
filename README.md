@@ -4,7 +4,7 @@ At the current time, the [Extensions.GNOME.org](https://extensions.gnome.org/) w
 ------------------
 
 # -- IMPORTANT UPDATE! --
-This extensions is no longer maintained or needed because GNOME finally decided to make it possible to download extensions from the extensions.gnome.org website. You can now just use their download method in order to get the files. :)
+This project is no longer maintained or needed because GNOME finally decided to make it possible to download extensions from the extensions.gnome.org website. You can now just use their download method in order to get the files. :)
 
 -------------------
 
