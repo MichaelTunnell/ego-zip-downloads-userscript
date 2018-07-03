@@ -1,5 +1,5 @@
 # -- IMPORTANT UPDATE! --
-This project is no longer maintained or needed because GNOME finally decided to make it possible to download extensions from the extensions.gnome.org website. You can now just use their download method in order to get the files. :)
+This project is currently unmaintained because GNOME decided to make it possible to download extensions from the extensions.gnome.org website. Unfortunately, they have apparently removed the ability to install extensions via zip files so I am not sure why they made the downloads possible if you can't really use them. I will look for a solution but it seems the best solution at this point is installing via command-line.
 
 -------------------
 
